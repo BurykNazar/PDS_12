@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_12\lab12\Source.cpp(73,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_12\lab12\Source.cpp(81,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_12\lab12\Source.cpp(116,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  lab12.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_12\lab12\x64\Debug\lab12.exe
